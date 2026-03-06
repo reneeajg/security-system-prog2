@@ -1,0 +1,8 @@
+=== SECURITY REPORT ===
+Report Date: 4444-44-44
+Report Time: 44:44
+---------------------------------
+TIME     | LOCATION          | PANIC BUTTON
+---------|-------------------|-------------
+44:44    | Front Door        | PRESSED
+===================================
