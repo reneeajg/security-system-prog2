@@ -17,7 +17,8 @@ By automating surveillance and improving response times, the system aims to dete
 For this project, you are required to use arrays, structures, strings, and text files. There are three kinds of users – the Admin, the Guest, and the Security.
 
 **Use-case Diagram:**  
-![][image1]
+<img width="287" height="411" alt="image" src="https://github.com/user-attachments/assets/ac56ba7d-631c-4512-90c1-91bdd07b73b7" />
+
 
 **Program Deliverables:**
 
