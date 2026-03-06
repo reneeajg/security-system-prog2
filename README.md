@@ -1,8 +1,6 @@
 **The HULIKA Project**
 
 Submitted by: Chung, Josh Matthew & Guerra, Renee Angeli  
-Submission Date: April 4, 2025  
-[Google Drive for Deliverables](https://drive.google.com/drive/folders/1F04u_WIlMAhLlYKP0THizsLZ08rwOTzY): [CBPROG2\_MP\_CHUNG & GUERRA](https://drive.google.com/drive/folders/1F04u_WIlMAhLlYKP0THizsLZ08rwOTzY)
 
 Home security is a critical concern for homeowners around the world. Despite locked doors and windows, intruders often find a way to bypass physical barriers undetected, leading to theft, property damage, and even endangerment of lives. In the Philippines, robbery accounts for 17.7% of the national index crime volume, with many incidents occurring at night when residents and security personnel are least alert. Traditional security measures—such as manual patrols or static alarms—frequently fail to provide real-time alerts, delaying emergency response and increasing vulnerability.
 
@@ -15,8 +13,6 @@ This project addresses this problem by developing a Smart Intruder Detection Sys
 By automating surveillance and improving response times, the system aims to deter crimes and enhance safety in residential areas.
 
 For this project, you are required to use arrays, structures, strings, and text files. There are three kinds of users – the Admin, the Guest, and the Security.
-
-**Use-case Diagram:**  
 
 
 **Program Deliverables:**
